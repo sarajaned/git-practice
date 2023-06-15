@@ -34,14 +34,14 @@ $ git config --global user.email johndoe@example.com
 
 ## Instruction
 
-[] Please fork and clone this repository
-[] Create a new branch and name it with your name eg `john-doe`
-[] Create a new "Hello World" project using your language of choice such as
+- [ ] Please fork and clone this repository
+- [ ] Create a new branch and name it with your name eg `john-doe`
+- [ ] Create a new "Hello World" project using your language of choice such as
 Python, Java, JavaScript, Ruby or even bash script.
-[] View the `status` of the git repo, `add` your changes to staging, view the status
+- [ ] View the `status` of the git repo, `add` your changes to staging, view the status
 of the repo again. Once happy with the status of the repo, `commit` your changes.
-[] `push` your changes up into `Github`
-[] Open a `pull request` (PR) setting your `name branch` as the branch to `merge`
+- [ ] `push` your changes up into `Github`
+- [ ] Open a `pull request` (PR) setting your `name branch` as the branch to `merge`
 into your `main` branch
 
 ## Git reference
